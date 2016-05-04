@@ -1,8 +1,7 @@
 #[Stanford Guide](https://github.com/SU-SWS/stanford_guide)
 ##### Version: 7.x-1.x
 
-Maintainers: [cynmij](https://github.com/cynmij), [boznik](https://github.com/boznik)
-[Changelog.txt](CHANGELOG.txt)
+Maintainers: [cynmij](https://github.com/cynmij), [boznik](https://github.com/boznik), [josephgknox](https://github.com/josephgknox), [Changelog.txt](CHANGELOG.txt)
 
 The Stanford Guide feature is used to create numbered step-by-step content.
 
